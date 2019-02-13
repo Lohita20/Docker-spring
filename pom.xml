@@ -11,6 +11,7 @@
     <groupId>com.uipurpose</groupId>
     <artifactId>detailsapp</artifactId>
     <version>0.0.1-SNAPSHOT</version>
+         <packaging>war</packaging>
     <name>detailsapp</name>
     <description>Demo project for integrating with Angular</description>
 
