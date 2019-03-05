@@ -30,6 +30,6 @@ spec:
     spec:
       containers:
         - name: my-springboot-app-container 
-          image: jeevakiran/backend-kubernetes
+          image: lohita20/angular
           ports:
             - containerPort: 8080
