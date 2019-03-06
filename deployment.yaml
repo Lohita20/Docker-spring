@@ -30,7 +30,7 @@ spec:
     spec:
       containers:
         - name: my-springboot-app-container 
-          image: lohita20/springapp1
+          image: lohita20/springapp1:61
           ports:
             - containerPort: 8080
       imagePullSecrets:
