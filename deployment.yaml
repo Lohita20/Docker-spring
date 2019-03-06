@@ -33,5 +33,5 @@ spec:
           image: lohita20/springapp
           ports:
             - containerPort: 8080
-imagePullSecrets:
-  name: springappsample
+      imagePullSecrets:
+          name: springappsample
